@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Lista de cambios no controlados predeterminada",
+			"files": [
+				"C:/Users/obedj/OneDrive/Desktop/CU_Unreal_Engine_15/secret_of_the_tower/Content/Input/Actions/IA_Crouch.uasset",
+				"C:/Users/obedj/OneDrive/Desktop/CU_Unreal_Engine_15/secret_of_the_tower/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/obedj/OneDrive/Desktop/CU_Unreal_Engine_15/secret_of_the_tower/Content/Input/IMC_Default.uasset"
+			]
+		}
+	]
+}

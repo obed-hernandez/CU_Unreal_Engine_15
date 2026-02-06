@@ -7,7 +7,10 @@
 			"files": [
 				"C:/Users/obedj/OneDrive/Desktop/CU_Unreal_Engine_15/secret_of_the_tower/Content/Input/Actions/IA_Crouch.uasset",
 				"C:/Users/obedj/OneDrive/Desktop/CU_Unreal_Engine_15/secret_of_the_tower/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/obedj/OneDrive/Desktop/CU_Unreal_Engine_15/secret_of_the_tower/Content/Input/IMC_Default.uasset"
+				"C:/Users/obedj/OneDrive/Desktop/CU_Unreal_Engine_15/secret_of_the_tower/Content/Input/IMC_Default.uasset",
+				"C:/Users/obedj/OneDrive/Desktop/CU_Unreal_Engine_15/secret_of_the_tower/Content/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.uasset",
+				"C:/Users/obedj/OneDrive/Desktop/CU_Unreal_Engine_15/secret_of_the_tower/Content/animaciones/CrouchWalk.uasset",
+				"C:/Users/obedj/OneDrive/Desktop/CU_Unreal_Engine_15/secret_of_the_tower/Content/animaciones/Crouch.uasset"
 			]
 		}
 	]

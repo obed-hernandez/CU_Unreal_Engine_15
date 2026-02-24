@@ -1,3 +1,4 @@
-*.uproyect filter=lfs diff=lfs merge=lfs -text
+*.uproject filter=lfs diff=lfs merge=lfs -text
 *.fbx filter=lfs diff=lfs merge=lfs -text
 *.obj filter=lfs diff=lfs merge=lfs -text
+*.uproyect filter=lfs diff=lfs merge=lfs -text
